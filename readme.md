@@ -1,10 +1,12 @@
-Here is the English translation of the document content, with all links and citations removed as requested, ready for copying:
 
 ***
 
 ## 📚 MLASST Software \[Multi-Layer Anti-Spoofing Simulation Tool\] V1.0 Product Manual
 
+### images referenced in this file are available in the chinese version file [MLASST_Instruction_chinese.pdf](https://github.com/user-attachments/files/23717442/MLASST_Instruction_chinese.pdf)
+
 ### Software Introduction
+
 
 * **Software Name:** Multi-Layer Anti-Spoofing Simulation Tool Software
 * **Abbreviation:** MLASST
@@ -93,8 +95,5 @@ The functions of this software include:
 
 ***
 
-MLASST Software \[Multi-Layer Anti-Spoofing Simulation Tool\] V1.0
-
-Page 1 / 1
 
 ***
